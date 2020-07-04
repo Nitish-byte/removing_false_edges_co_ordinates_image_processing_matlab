@@ -6,3 +6,7 @@ pic_0 is the original image
 sq_3_3_edges are its edges in rgb
 sq_3_3 is the plot of its edges with noise
 sq_3_3_algo plot of edges after using this function
+
+Name of the function carrying out this task is:
+remove_false_edges(n)
+where 'n' is a vector
